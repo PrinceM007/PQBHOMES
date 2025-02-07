@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PQBHOMES/static/css/main.a47d7b1c.css",
+    "main.js": "/PQBHOMES/static/js/main.8bca9526.js",
+    "static/js/453.de298b6c.chunk.js": "/PQBHOMES/static/js/453.de298b6c.chunk.js",
+    "static/media/A.jpg": "/PQBHOMES/static/media/A.ee639f5a8aeaae5e682e.jpg",
+    "index.html": "/PQBHOMES/index.html",
+    "main.a47d7b1c.css.map": "/PQBHOMES/static/css/main.a47d7b1c.css.map",
+    "main.8bca9526.js.map": "/PQBHOMES/static/js/main.8bca9526.js.map",
+    "453.de298b6c.chunk.js.map": "/PQBHOMES/static/js/453.de298b6c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a47d7b1c.css",
+    "static/js/main.8bca9526.js"
+  ]
+}
